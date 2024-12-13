@@ -15,7 +15,9 @@ public class NoCommit_6_mistake {
 	       NoCommit_6_mistake.java 파일의 내용을 메모장으로 백업받은 후
 	       NoCommit_6_mistake.java 파일을 삭제한 후 push 하고 
 	            다시 NoCommit_6_mistake.java 파일을 재생성해서 백업해둔 메모장의 내용으로 덮어씌우면 됩니다. 
-	*/
+		*/
+		
+		
 		
 	}
 	
